@@ -27,5 +27,5 @@ Para contato: nathanmp201@gmail.com
 <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=EZM-git&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" height="180" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EZM-git&show_icons=true&theme=tokyonight" height="195" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EZM-git&show_icons=true&theme=tokyonight" height="210" />
 </p>
