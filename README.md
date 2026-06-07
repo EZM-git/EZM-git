@@ -24,8 +24,11 @@ Para contato: nathanmp201@gmail.com
 <br/>
 
 ### 🔶 Estatísticas
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=EZM-git&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" height="180" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EZM-git&show_icons=true&theme=tokyonight" height="210" />
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EZM-git&theme=midnight_purple" alt="Resumo do Perfil" />
+
+  <br>
+
+  <img src="https://streak-stats.demolab.com?user=EZM-git&theme=midnight-purple&locale=pt-br&date_format=j%20M%5B%20Y%5D" alt="Streak atual" height="195" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EZM-git&theme=midnight_purple" alt="Linguagens" height="195" />
+</div>
